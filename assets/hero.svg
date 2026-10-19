@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="524" viewBox="0 0 880 524" role="img" aria-label="ljh-ningxia profile hero">
+  <style>
+    svg {
+    --bg: #FAFAF9;
+    --panel: #F3F4F6;
+    --border: #D0D7DE;
+    --text: #1F2328;
+    --muted: #656D76;
+    --accent: #0550AE;
+    --green: #116329;
+    --purple: #6639BA;
+    --amber: #7D4E00;
+    --red: #A40E26;
+    --cyan: #0F6E75;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+    --bg: #0D1117;
+    --panel: #161B22;
+    --border: #30363D;
+    --text: #E6EDF3;
+    --muted: #8B949E;
+    --accent: #58A6FF;
+    --green: #3FB950;
+    --purple: #BC8CFF;
+    --amber: #D29922;
+    --red: #FF7B72;
+    --cyan: #39C5CF;
+      }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="523" rx="10" fill="var(--bg)" stroke="var(--border)"/>
+  <path d="M0.5 42 V10.5 A10 10 0 0 1 10.5 0.5 H869.5 A10 10 0 0 1 879.5 10.5 V42 Z" fill="var(--panel)"/>
+  <line x1="0.5" y1="42.5" x2="879.5" y2="42.5" stroke="var(--border)"/>
+  <circle cx="26" cy="31" r="5.5" fill="#FF5F57"/><circle cx="45" cy="31" r="5.5" fill="#FEBC2E"/><circle cx="64" cy="31" r="5.5" fill="#28C840"/>
+  <text x="440.0" y="35" fill="var(--muted)" font-size="12" text-anchor="middle">ljh-ningxia@github — zsh</text>
+  <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="14">
+    <text x="26" y="102" fill="var(--text)" font-size="34" font-weight="700" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace">ljh-ningxia</text>
+    <text x="26" y="126" fill="var(--muted)" font-size="13" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace">AI / data · student · building in public</text>
+    <text x="26" y="146" xml:space="preserve"><tspan fill="var(--muted)"># </tspan><tspan fill="var(--green)" font-weight="600">whoami</tspan><tspan fill="var(--muted)">   →  </tspan><tspan fill="var(--text)">ljh-ningxia</tspan></text>
+    <text x="26" y="171" xml:space="preserve"> </text>
+    <text x="26" y="196" xml:space="preserve"><tspan fill="var(--green)" font-weight="600">$ </tspan><tspan fill="var(--text)">cat ~/.profile</tspan></text>
+    <text x="26" y="221" xml:space="preserve"><tspan fill="var(--muted)">  role      </tspan><tspan fill="var(--text)"> : </tspan><tspan fill="var(--accent)" font-weight="600">student</tspan></text>
+    <text x="26" y="246" xml:space="preserve"><tspan fill="var(--muted)">  focus     </tspan><tspan fill="var(--text)"> : </tspan><tspan fill="var(--accent)" font-weight="600">artificial intelligence</tspan><tspan fill="var(--muted)"> · </tspan><tspan fill="var(--accent)" font-weight="600">data</tspan></text>
+    <text x="26" y="271" xml:space="preserve"><tspan fill="var(--muted)">  status    </tspan><tspan fill="var(--text)"> : </tspan><tspan fill="var(--amber)">learning in public, one commit at a time</tspan></text>
+    <text x="26" y="296" xml:space="preserve"> </text>
+    <text x="26" y="321" xml:space="preserve"><tspan fill="var(--green)" font-weight="600">$ </tspan><tspan fill="var(--text)">ls ~/stack</tspan></text>
+    <text x="26" y="346" xml:space="preserve"><tspan fill="var(--purple)">  python  </tspan><tspan fill="var(--purple)">pytorch  </tspan><tspan fill="var(--purple)">numpy  </tspan><tspan fill="var(--purple)">pandas  </tspan><tspan fill="var(--purple)">sql  </tspan><tspan fill="var(--purple)">git</tspan></text>
+    <text x="26" y="371" xml:space="preserve"> </text>
+    <text x="26" y="396" xml:space="preserve"><tspan fill="var(--green)" font-weight="600">$ </tspan><tspan fill="var(--text)">echo $MOTTO</tspan></text>
+    <text x="26" y="421" xml:space="preserve"><tspan fill="var(--muted)">  “ </tspan><tspan fill="var(--cyan)">First make it run. Then make it right. Then make it fast.</tspan><tspan fill="var(--muted)"> ”</tspan></text>
+    <text x="26" y="446" xml:space="preserve"> </text>
+    <text x="26" y="471" xml:space="preserve"><tspan fill="var(--green)" font-weight="600">$ </tspan><tspan fill="var(--green)" font-weight="600">▊</tspan></text>
+  </g>
+</svg>
