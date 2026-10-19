@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="北渚 — 个人横幅">
+  <style>
+    svg {
+    --text: #1F2328;
+    --muted: #57606A;
+    --panel: #F6F8FA;
+    --border: #D0D7DE;
+    --accent: #0969DA;
+    --green: #1A7F37;
+    --purple: #8250DF;
+    --amber: #9A6700;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+    --text: #E6EDF3;
+    --muted: #8B949E;
+    --panel: #161B22;
+    --border: #30363D;
+    --accent: #58A6FF;
+    --green: #3FB950;
+    --purple: #BC8CFF;
+    --amber: #D29922;
+      }
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAF3FF"/>
+      <stop offset="0.55" stop-color="#F3F0FF"/>
+      <stop offset="1" stop-color="#FFF1F5"/>
+    </linearGradient>
+    <linearGradient id="bgd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12233F"/>
+      <stop offset="0.55" stop-color="#1B1B3A"/>
+      <stop offset="1" stop-color="#2B1830"/>
+    </linearGradient>
+  </defs>
+  <style>
+    svg { --t:#24292F; --s:#57606A; }
+    @media (prefers-color-scheme: dark) {
+      svg { --t:#E6EDF3; --s:#9AA7B3; }
+      .lightonly { display:none; }
+    }
+    @media (prefers-color-scheme: light) {
+      .darkonly { display:none; }
+    }
+  </style>
+  <rect class="lightonly" width="880" height="200" rx="14" fill="url(#bg)"/>
+  <rect class="darkonly" width="880" height="200" rx="14" fill="url(#bgd)"/>
+  <!-- 几何星座点缀 -->
+  <g stroke="#8AB6F9" stroke-width="1.4" fill="none" opacity="0.75">
+    <path d="M700 58 L756 40 L810 66 L792 118 L726 126 Z"/>
+    <path d="M700 58 L726 126 M756 40 L726 126 M756 40 L792 118 M700 58 L810 66"/>
+  </g>
+  <g fill="#4E8FE0">
+    <circle cx="700" cy="58" r="4"/><circle cx="756" cy="40" r="4"/>
+    <circle cx="810" cy="66" r="4"/><circle cx="792" cy="118" r="4"/>
+    <circle cx="726" cy="126" r="4"/>
+  </g>
+  <circle cx="640" cy="150" r="3" fill="#B48CF2" opacity="0.7"/>
+  <circle cx="672" cy="34" r="2.5" fill="#F27DA5" opacity="0.7"/>
+  <!-- 文案 -->
+  <g font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
+    <text x="56" y="74" fill="#5B8DEF" font-size="13" letter-spacing="4" font-weight="600">HELLO, WORLD</text>
+    <text x="52" y="128" fill="var(--t)" font-size="44" font-weight="800">北渚</text>
+    <text x="56" y="162" fill="var(--s)" font-size="15">在校学生 · 从零学 Python 与 AI（LLM / PyTorch）</text>
+  </g>
+</svg>
