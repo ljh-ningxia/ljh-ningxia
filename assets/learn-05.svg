@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="150" viewBox="0 0 414 150" role="img" aria-label="计算机基础">
+  <style>
+    svg {
+    --bg: #FAFAF9;
+    --panel: #F3F4F6;
+    --border: #D0D7DE;
+    --text: #1F2328;
+    --muted: #656D76;
+    --accent: #0550AE;
+    --green: #116329;
+    --purple: #6639BA;
+    --amber: #7D4E00;
+    --red: #A40E26;
+    --cyan: #0F6E75;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+    --bg: #0D1117;
+    --panel: #161B22;
+    --border: #30363D;
+    --text: #E6EDF3;
+    --muted: #8B949E;
+    --accent: #58A6FF;
+    --green: #3FB950;
+    --purple: #BC8CFF;
+    --amber: #D29922;
+    --red: #FF7B72;
+    --cyan: #39C5CF;
+      }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="413" height="149" rx="8" fill="var(--bg)" stroke="var(--border)"/>
+  <line x1="1" y1="1" x2="413" y2="1" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Microsoft YaHei','PingFang SC','Noto Sans SC',monospace">
+  <text x="22" y="32" fill="var(--muted)" font-size="12">[05]</text>
+  <text x="60" y="32" fill="var(--text)" font-size="14" font-weight="600">计算机基础</text>
+  <text x="392" y="32" fill="var(--amber)" font-size="11" text-anchor="end">● 学习中</text>
+  <text x="22" y="58" fill="var(--muted)" font-size="12.5">操作系统与网络的自考复习中，算法题每日一题</text>
+  <rect x="22.0" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="37.7" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="53.4" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="69.1" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="84.8" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="100.5" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="116.2" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="131.9" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="147.6" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="163.3" y="76" width="14.2" height="8" rx="1.5" fill="var(--accent)"/>
+    <rect x="179.0" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="194.7" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="210.4" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="226.1" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="241.8" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="257.5" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="273.2" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="288.9" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="304.6" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+    <rect x="320.3" y="76" width="14.2" height="8" rx="1.5" fill="var(--border)"/>
+  <text x="344" y="84" fill="var(--accent)" font-size="11">50%</text>
+  <rect x="22" y="111" width="70" height="20" rx="4" fill="var(--panel)" stroke="var(--border)"/>
+  <text x="31" y="125" fill="var(--purple)" font-size="11">操作系统</text>
+  <rect x="98" y="111" width="122" height="20" rx="4" fill="var(--panel)" stroke="var(--border)"/>
+  <text x="107" y="125" fill="var(--purple)" font-size="11">LeetCode</text>
+  </g>
+</svg>
