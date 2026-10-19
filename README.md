@@ -1,66 +1,40 @@
-<img src="./assets/hero.svg" alt="ljh-ningxia — AI/data student" width="100%">
+![个人主页首屏](./assets/hero.svg)
 
 ---
 
-<img src="./assets/sec-about.svg" alt="./about" width="100%">
+![./ 关于我](./assets/sec-about.svg)
 
-CS student focused on **artificial intelligence and data**. I like the unglamorous
-middle of ML — the cleaning, the evaluation, the part where the model meets real,
-messy data — and I try to understand things by rebuilding them from scratch.
+计算机科学在读，方向是**人工智能与数据**。比起「调包侠」，我更喜欢机器学习里那些不起眼的中间环节——数据清洗、模型评估、特征工程——以及通过从头重造来真正理解一个东西。
 
-Currently: coursework by day, papers-and-notebooks by night. Learning in public.
+现在的节奏：白天上课，晚上读论文、写 notebook，公开学习，一次一个 commit。
 
-&nbsp;
+---
 
-<img src="./assets/sec-stack.svg" alt="./stack" width="100%">
+![./ 正在学习](./assets/sec-learning.svg)
 
-| area | tools I actually use |
+| | | |
+|:---:|:---:|:---:|
+| ![深度学习基础](./assets/learn-01.svg) | ![机器学习](./assets/learn-02.svg) | ![数据处理](./assets/learn-03.svg) |
+| ![大模型应用](./assets/learn-04.svg) | ![计算机基础](./assets/learn-05.svg) | ![工程能力](./assets/learn-06.svg) |
+
+---
+
+![./ 技术栈](./assets/sec-stack.svg)
+
+| 领域 | 日常在用 |
 |---|---|
-| **languages** | Python · SQL · a bit of C++ |
-| **ml / dl** | PyTorch · scikit-learn · Hugging Face |
-| **data** | Pandas · NumPy · Polars · dbt |
-| **infra** | Git · Linux · Docker · FastAPI |
-| **learning next** | CUDA basics · distributed training · Rust |
+| 语言 | Python · SQL · 一点 C++ |
+| 机器学习 | PyTorch · scikit-learn · Hugging Face |
+| 数据 | Pandas · NumPy · Polars |
+| 工程 | Git · Linux · Docker · FastAPI |
 
-&nbsp;
+---
 
-<img src="./assets/sec-projects.svg" alt="./projects" width="100%">
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./assets/proj-01.svg" alt="sentiment-dashboard" width="100%">
-      <sub>fine-grained sentiment on Chinese e-commerce reviews, with a live aspect-level dashboard</sub>
-    </td>
-    <td width="50%">
-      <img src="./assets/proj-02.svg" alt="tiny-rag" width="100%">
-      <sub>a RAG pipeline small enough to read in one sitting — chunk → embed → rerank, no framework</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="./assets/proj-03.svg" alt="cv-notebooks" width="100%">
-      <sub>classic CV papers re-implemented as annotated notebooks, from LeNet to ViT</sub>
-    </td>
-    <td width="50%">
-      <img src="./assets/proj-04.svg" alt="data-cookbook" width="100%">
-      <sub>recipes for the boring-but-vital parts of data work: cleaning, joins, schema drift</sub>
-    </td>
-  </tr>
-</table>
-
-&nbsp;
-
-<img src="./assets/sec-stats.svg" alt="./github-stats" width="100%">
-
-<!-- profile views -->
-![Visitor count](https://komarev.com/ghpvc/?username=ljh-ningxia&color=0969da&style=flat-square&label=views)
-
-&nbsp;
-
-<img src="./assets/sec-connect.svg" alt="./connect" width="100%">
+![./ 联系我](./assets/sec-connect.svg)
 
 ```bash
-$ mail -s "hi" ljh-ningxia@users.noreply.github.com
-# issues & PRs on any repo — always open
+$ mail -s "你好" ljh-ningxia@users.noreply.github.com
+# 任何仓库的 issue / PR 都开放，欢迎交流
 ```
+
+![访问量](https://komarev.com/ghpvc/?username=ljh-ningxia&color=0969da&style=flat-square&label=%E8%AE%BF%E9%97%AE%E9%87%8F)
